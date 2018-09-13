@@ -1,0 +1,12 @@
+Welcome to the first Hackathon for CTE 2018
+
+This Hackathon is not graded. Though the winner will get a Sandisk 16GB Pendrive (Which I think is pretty cool!)
+
+Rules for the Hackathon:
+
+1) Every kind of Malpractice is allowed and is encouraged.
+2) Physically disturbing / violence anyone is not allowed.
+3) Finally you’ll be checked on the website look alike, you are encouraged to use the code of anyone who has submitted early (Why would anyone do that though?).
+4) You cannot check instructor’s code during hackathon.
+
+So, now that this is done. Happy hacking!
